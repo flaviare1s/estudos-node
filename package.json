@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "mysql2": "^3.9.2",
+    "sequelize": "^6.37.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "name": "estudos-node",
+  "description": "Repositório criado para estudar Node.js",
+  "version": "1.0.0",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon teste.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
