@@ -11,7 +11,7 @@
   "name": "estudos-node",
   "description": "Repositório criado para estudar Node.js",
   "version": "1.0.0",
-  "main": "teste.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
